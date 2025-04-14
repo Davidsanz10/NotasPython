@@ -25,14 +25,17 @@
             "id": "523263807e825704",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Sintaxis Basica/04. Diccionarios.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -300,
+                  "y": 30,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "04. Diccionarios"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -181,16 +184,25 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false,
+      "fit:Fit Sync": false
     }
   },
   "active": "523263807e825704",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled.canvas",
+    "_fit/Untitled.canvas",
     "README.md",
     "Sintaxis Basica/04. Diccionarios.md",
+    "_fit/Sintaxis Basica/04. Diccionarios.md",
+    "_fit/Sintaxis Basica",
+    "_fit",
     "Sintaxis Basica/03. Tuplas.md",
-    "Sintaxis Basica/01. Variables, Constantes.md",
     "Sintaxis Basica/02. Listas.md",
+    "Sintaxis Basica/01. Variables, Constantes.md",
     "().md",
     "Sintaxis Basica",
     "Sintaxis Basica/Galeria"
