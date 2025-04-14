@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sintaxis Basica/02. Listas.md",
+                "file": "Sintaxis Basica/04. Diccionarios.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Listas"
+              "title": "04. Diccionarios"
             }
           }
         ]
@@ -170,15 +170,15 @@
       "fit:Fit Sync": false
     }
   },
-  "active": "ddc5584b28650eb5",
+  "active": "bd3a7a77b71d83f2",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Sintaxis Basica/02. Listas.md",
-    "Untitled.canvas",
     "Sintaxis Basica/03. Tuplas.md",
-    "_fit/Untitled.canvas",
-    "README.md",
     "Sintaxis Basica/04. Diccionarios.md",
+    "README.md",
+    "Sintaxis Basica/02. Listas.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "_fit/Untitled.canvas",
     "_fit/Sintaxis Basica/04. Diccionarios.md",
     "_fit/Sintaxis Basica",
     "_fit",
